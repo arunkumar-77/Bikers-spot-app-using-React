@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# BIKE SPOT APP
+# BIKES SPOT APP
 It is fully based on the bike buying app. it will be shown the bikes are available in the app and there price of the bike can be described here.
 
 # HOME PAGE
