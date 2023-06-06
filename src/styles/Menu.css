@@ -1,0 +1,65 @@
+.menu {
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  .menu .menuTitle {
+    font-family:'Courier New', Courier, monospace;
+    font-size: 60px;
+    color:ghostwhite;
+  }
+  
+  .bikeList {
+    width: 70vw;
+    height: auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    font-family: cursive;
+    place-items: center;
+    color:darkmagenta;
+  }
+  
+  /* MENU ITEM STYLING */
+  
+  .bikeItem {
+    border-radius: 15px;
+    width: 300px;
+    height: 350px;
+    margin: 20px;
+    box-shadow: 0px 3px 15px steelblue;
+  }
+  .bikeItem:hover {
+    box-shadow: 0px 3px 15px black;
+    transition: 0.3s ease-in;
+    cursor: pointer;
+  }
+  
+  .bikeItem div {
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    width: 100%;
+    height: 200px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .bikeItem h1,
+  .bikeItem p {
+    margin-left: 20px;
+  }
+  
+  @media only screen and (max-width: 1300px) {
+    .bikeList {
+      grid-template-columns: 1fr 1fr;
+    }
+  }
+  
+  @media only screen and (max-width: 800px) {
+    .bikeList {
+      grid-template-columns: 1fr;
+    }
+  }
