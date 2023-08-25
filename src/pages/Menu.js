@@ -2,7 +2,7 @@ import React from 'react'
 import { BikeList } from '../helpers/BikeList';
 import Bikers from '../components/Bikers';
 import '../styles/Menu.css';
-import BannerImage from "../assets/backg.jpg"
+import BannerImage from "../assets/bikebg.jpg"
 function Menu() {
   return (
     <div className="menu" style={{ backgroundImage:`url(${BannerImage})` }}>

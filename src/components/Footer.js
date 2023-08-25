@@ -9,7 +9,9 @@ function Footer() {
   return (
     <div className='footer'>
         <div className='socialMedia'>
-            <InstagramIcon /> <TwitterIcon /> <FacebookIcon /> <LinkedInIcon /> 
+        <a href="https://www.instagram.com/accounts/login/" target="_blank"><InstagramIcon /></a>
+
+             <TwitterIcon /> <FacebookIcon /> <LinkedInIcon /> 
         </div>
         <p> &copy; 2023 bikes.com</p>
     </div>

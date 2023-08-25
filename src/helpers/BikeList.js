@@ -17,7 +17,7 @@ export const BikeList = [
         price: 40000,
     },
     {
-        name:"Royal Enfield classic 250",
+        name:"Royal Enfield classic 350",
         image: RE250,
         price: 35000,
     },

@@ -5,11 +5,15 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
   }
   .menu .menuTitle {
     font-family:'Courier New', Courier, monospace;
     font-size: 60px;
-    color:ghostwhite;
+    color:aqua;
   }
   
   .bikeList {
@@ -19,7 +23,7 @@
     grid-template-columns: 1fr 1fr 1fr;
     font-family: cursive;
     place-items: center;
-    color:darkmagenta;
+    color:ghostwhite;
   }
   
   /* MENU ITEM STYLING */
