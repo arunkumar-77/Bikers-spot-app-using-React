@@ -2,15 +2,16 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-# BIKES SPOT APP
+# BIKERS' SPOT APP
 It is fully based on the bike buying app. it will be shown the bikes are available in the app and there price of the bike can be described here.
 
 # HOME PAGE
-![image](https://github.com/arunkumar-77/Bikespot-app-using-React/assets/74124425/dafc9e7d-1c84-4254-b2c0-2d9902d8f894)
+![image](https://github.com/arunkumar-77/Bikespot-app-using-React/assets/74124425/876d9eff-bb08-492b-82f1-222b500996f9)
+
 
 when you click the Order Now it can redirect to the Bikes page. 
 # BIKES PAGE
-![image](https://github.com/arunkumar-77/Bikespot-app-using-React/assets/74124425/11c15387-2cd1-4683-98e9-71c8799a8211)
+![image](https://github.com/arunkumar-77/Bikespot-app-using-React/assets/74124425/6fe61372-c09a-43cb-acd6-7395d6dde600)
 
 this page shown the bike name,bike image and there price.
 
